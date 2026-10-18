@@ -1,0 +1,22 @@
+{
+  "wheel_id": 418,
+  "structure": "umbrella",
+  "slug": "garagedoorrepairsinbrisbane-103",
+  "project": "garage-door-repairs-brisbane-cost-guide-3fb640082febf383108e566",
+  "parent_t1_ref": "garagedoorrepairsinbrisbane-151",
+  "node_role": "feeder",
+  "money_target": "garagedoorrepairsinbrisbane.com.au",
+  "primary_kw": "garage door repairs brisbane cost guide",
+  "intended_url": "https://aumedia.neocities.org/garage-door-repairs-brisbane-cost-guide-3fb640082febf383108e566/",
+  "tier": "T2",
+  "writeback_nonce": "18b63f3448c0c938",
+  "links": [
+    {
+      "target_url": "http://garage-door-repairs-brisbane-seasonal-timing-cd20313be33ade157e.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Garage Door Repairs Brisbane Seasonal Timing: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
